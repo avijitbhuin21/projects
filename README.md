@@ -1,2 +1,2 @@
 # projects
-A small place for my projects
+not a great deal but still a step forward
